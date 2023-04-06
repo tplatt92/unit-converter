@@ -19,6 +19,7 @@ html, body {
     display: flex;
     flex-direction: column;
     border: 5px solid #333652;
+    box-shadow: 10px 10px 20px #333652 ;
     border-radius: 18px;
 }
 
@@ -70,7 +71,7 @@ button {
     color: #333652;
     font-weight: bold;
     padding: 10px;
-    border: solid 1px #333652;
+    border: solid 3px #333652;
     border-radius: 8px;
     width: 7em;
     cursor: pointer;
@@ -79,7 +80,7 @@ button {
 button:hover {
     background-color: #333652;
     color: #E9EAEC;
-    border: solid 1px #90ADC6;
+    border: solid 3px #90ADC6;
 } 
 
 h1 {
